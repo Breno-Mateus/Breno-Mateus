@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/Breno-Mateus"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Mateus&show_icons=true&theme=highcontrast"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Mateus&layout=compact&theme=highcontrast"/>
+</div>
+
 <div style="display: inline_block"><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
