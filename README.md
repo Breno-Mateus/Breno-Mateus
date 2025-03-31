@@ -2,6 +2,7 @@
 
 Desenvolvedor Front-End apaixonado por criar interfaces modernas e responsivas. Atualmente, estou aprimorando minhas habilidades em todo o ecossistema de desnvolvimento front-end e expandindo meus conhecimentos em Python.
 
+##
 ### 🚀 Tecnologias que utilizo:
 
 <div style="display: inline_block"><br />
@@ -15,14 +16,16 @@ Desenvolvedor Front-End apaixonado por criar interfaces modernas e responsivas. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 </div>
 
+##
 ### 📊 Estatísticas do GitHub:
 
-<div>
-  <a href="https://github.com/Breno-Mateus"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Breno-Mateus&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Mateus&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Breno-Mateus&show_icons=true&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Mateus&layout=compact&theme=dark"/>
 </div>
 
+
+##
 ### 📬 Entre em contato:
 
 <div>
